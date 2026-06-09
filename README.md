@@ -23,7 +23,7 @@ An automated, multi-agent academic research assistant built with AutoGen (v0.4+)
 
 **1. Clone the Repository** 
 ```bash
-git clone <your-repository-url>
+git clone  https://github.com/Yungjorhn/MultiAgent-Research-Assistant.git
 cd <your-repository-folder>
 ```
 
