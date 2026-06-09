@@ -24,7 +24,7 @@ An automated, multi-agent academic research assistant built with AutoGen (v0.4+)
 **1. Clone the Repository** 
 ```bash
 git clone  https://github.com/Yungjorhn/MultiAgent-Research-Assistant.git
-cd <your-repository-folder>
+cd MultiAgent-Research-Assistant
 ```
 
 **2. Set up a Virtual Environment**
